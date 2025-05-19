@@ -91,14 +91,11 @@ function suma(a, b) { ... }  // No soportado
 resultado = calcular(x, y);  // No soportado
 ```
 
-## ⚠️ Limitaciones actuales
-
-El compilador está diseñado con fines educativos y tiene varias limitaciones:
+## ⚠️ Limitaciones
 
 1. Solo valida asignaciones y declaraciones simples
 2. La jerarquía de operaciones solo se controla mediante paréntesis, corchetes y llaves
 3. No hay soporte para tipos de datos complejos (solo int y float)
-4. No implementa generación de código o ejecución
 
 ## 📝 Ejemplos válidos
 
